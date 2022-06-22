@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development And CyberSecurity
 - 🌱 I’m currently learning Web Development and Visual Basic
 - 💞️ I’m looking to collaborate on CyberSecurity
-- 📫 How to reach me CyberSecurity
+- 📫 How to reach me obengemmanuel8066@gmail.com
 
 <!---
 obengemmanuel-hub/obengemmanuel-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
